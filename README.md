@@ -34,7 +34,7 @@ This repository contains the backend API for the **SafeBoda project**, built wit
 1. Clone the repository:
 
 ```bash
-git clone <YOUR_REPO_URL>
+git clone https://github.com/Pelino-Courses/module-2-safeboda-project-phase-2-itbienvenu
 cd safe_boda
 ```
 
